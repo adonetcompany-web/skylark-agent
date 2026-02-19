@@ -1,0 +1,52 @@
+[
+    {
+        "drone_id": "D001",
+        "model": "DJI M300",
+        "capabilities": [
+            "LiDAR",
+            "RGB"
+        ],
+        "status": "Available",
+        "location": "Bangalore",
+        "current_assignment": "-",
+        "maintenance_due": "2026-03-01",
+        "weather_resistance": "IP43 (Rain)"
+    },
+    {
+        "drone_id": "D002",
+        "model": "DJI Mavic 3",
+        "capabilities": [
+            "RGB"
+        ],
+        "status": "Maintenance",
+        "location": "Mumbai",
+        "current_assignment": "-",
+        "maintenance_due": "2026-02-01",
+        "weather_resistance": "None (Clear Sky Only)"
+    },
+    {
+        "drone_id": "D003",
+        "model": "DJI Mavic 3T",
+        "capabilities": [
+            "Thermal"
+        ],
+        "status": "Available",
+        "location": "Mumbai",
+        "current_assignment": "-",
+        "maintenance_due": "2026-04-01",
+        "weather_resistance": "IP43 (Rain)"
+    },
+    {
+        "drone_id": "D004",
+        "model": "Autel Evo II",
+        "capabilities": [
+            "Thermal",
+            "RGB"
+        ],
+        "status": "Available",
+        "location": "Bangalore",
+        "current_assignment": "-",
+        "maintenance_due": "2026-03-15",
+        "weather_resistance": "None (Clear Sky Only)"
+    }
+]

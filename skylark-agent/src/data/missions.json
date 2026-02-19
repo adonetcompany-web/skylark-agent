@@ -1,0 +1,51 @@
+[
+    {
+        "project_id": "PRJ001",
+        "client": "Client A",
+        "location": "Bangalore",
+        "required_skills": [
+            "Mapping"
+        ],
+        "required_certs": [
+            "DGCA"
+        ],
+        "start_date": "2026-02-06",
+        "end_date": "2026-02-08",
+        "priority": "High",
+        "mission_budget_inr": 10500,
+        "weather_forecast": "Rainy"
+    },
+    {
+        "project_id": "PRJ002",
+        "client": "Client B",
+        "location": "Mumbai",
+        "required_skills": [
+            "Inspection"
+        ],
+        "required_certs": [
+            "DGCA",
+            "Night Ops"
+        ],
+        "start_date": "2026-02-07",
+        "end_date": "2026-02-09",
+        "priority": "Urgent",
+        "mission_budget_inr": 10500,
+        "weather_forecast": "Sunny"
+    },
+    {
+        "project_id": "PRJ003",
+        "client": "Client C",
+        "location": "Bangalore",
+        "required_skills": [
+            "Thermal"
+        ],
+        "required_certs": [
+            "DGCA"
+        ],
+        "start_date": "2026-02-10",
+        "end_date": "2026-02-12",
+        "priority": "Standard",
+        "mission_budget_inr": 10500,
+        "weather_forecast": "Cloudy"
+    }
+]

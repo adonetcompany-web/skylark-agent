@@ -1,0 +1,67 @@
+[
+    {
+        "pilot_id": "P001",
+        "name": "Arjun",
+        "skills": [
+            "Mapping",
+            "Survey"
+        ],
+        "certifications": [
+            "DGCA",
+            "Night Ops"
+        ],
+        "location": "Bangalore",
+        "status": "Available",
+        "current_assignment": "-",
+        "available_from": "2026-02-05",
+        "daily_rate_inr": 1500
+    },
+    {
+        "pilot_id": "P002",
+        "name": "Neha",
+        "skills": [
+            "Inspection"
+        ],
+        "certifications": [
+            "DGCA"
+        ],
+        "location": "Mumbai",
+        "status": "Assigned",
+        "current_assignment": "Project-A",
+        "available_from": "2026-02-12",
+        "daily_rate_inr": 3000
+    },
+    {
+        "pilot_id": "P003",
+        "name": "Rohit",
+        "skills": [
+            "Inspection",
+            "Mapping"
+        ],
+        "certifications": [
+            "DGCA"
+        ],
+        "location": "Mumbai",
+        "status": "Available",
+        "current_assignment": "-",
+        "available_from": "2026-02-05",
+        "daily_rate_inr": 1500
+    },
+    {
+        "pilot_id": "P004",
+        "name": "Sneha",
+        "skills": [
+            "Survey",
+            "Thermal"
+        ],
+        "certifications": [
+            "DGCA",
+            "Night Ops"
+        ],
+        "location": "Bangalore",
+        "status": "On Leave",
+        "current_assignment": "-",
+        "available_from": "2026-02-15",
+        "daily_rate_inr": 5000
+    }
+]
